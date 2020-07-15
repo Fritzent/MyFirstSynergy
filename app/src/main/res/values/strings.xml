@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstSynergy</string>
+    <string name="btn_findby">Using FindViewById</string>
+    <string name="btn_kotlin_synthetic">Using Kotlin Synthetic</string>
+    <string name="btn_data_binding">Using Data Binding</string>
+    <string name="btn_view_binding">Using View Binding</string>
+
+    <string name="dummy_title">Hide and Seek</string>
+    <string name="dummy_findby">Old School Kotlin Binding</string>
+    <string name="dummy_kotlin_synthetic">The Very Easy Binding</string>
+    <string name="dummy_data_binding">New School Kotlin Binding</string>
+    <string name="dummy_view_binding">Other New School Kotlin Binding</string>
+</resources>
